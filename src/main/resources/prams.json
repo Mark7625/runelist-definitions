@@ -1,4 +1,10 @@
 {
     "rev": 180.1,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "checksums" :
+    {
+        "1" : "dfd3f",
+        "2" : "fff",
+		"3" : "fff1"
+    }
 }
